@@ -1,0 +1,6 @@
+{
+  "name": "Kandan Dress Shop & Tailors",
+  "description": "A modern boutique and custom tailoring website for local dress collection, alteration, custom stitching, and WhatsApp enquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
